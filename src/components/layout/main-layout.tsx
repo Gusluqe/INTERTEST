@@ -56,6 +56,9 @@ export function Layout({ children }: LayoutProps) {
           <p className="text-center text-sm text-muted-foreground">
             NetCheck Pro &copy; {new Date().getFullYear()} — Professional Speed Testing
           </p>
+          <p>&copy;Si te gustó esta página 🚀 Creá la tuya hoy en 👉 
+        <a href="https://luquetech.com/" target="_blank">luquetech.com</a>
+      </p>
         </div>
       </footer>
     </div>
